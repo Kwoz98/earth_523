@@ -4,19 +4,10 @@ author: "Katherine J. Wozniak"
 date: "February 2, 2017"
 output: html_document
 ---
+# Analysis for Earth523
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+This is my first time writing in **RMarkdown**. I learned that this document is a mixture of code and writing that can be seen in an html document online. Marian used RMarkdown to create her Rpubs webpage. 
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+Visit my github page here: https://github.com/Kwoz98/earth_523. I still need to learn how to embed the link into words. [] followed by (website) doesn't work for me.
 
-```{r}
-summary(cars)
-```
-
-You can also embed plots, for example:
-
-```{r, echo=FALSE}
-plot(cars)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+My repository on my computer is git_repos and I have an earth folder. These changes can be pushed into the master version online. 
