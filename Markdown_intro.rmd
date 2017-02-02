@@ -3,6 +3,7 @@ title: "RMarkdown_tutorial"
 author: "Katherine J. Wozniak"
 date: "February 2, 2017"
 output: html_document
+contents: Rmarkdown analysis in `RMarkdown_tutorial.Rmd`
 ---
 # Analysis for Earth523
 
